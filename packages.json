@@ -5,20 +5,20 @@
         "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
         "registry": "bioc",
         "url": "https://github.com/bioc/MsnBase",
-        "version": "2.28.1",
+        "version": "2.28.1"
     },
     {
         "_comment": "TODO: Should not be needed, investigate later...",
         "package": "xcms",
         "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
-        "registry": "bioc"
+        "registry": "bioc",
         "url": "https://github.com/bioc/xcms",
-        "version": "4.0.2",
+        "version": "4.0.2"
     },
     {
         "package": "cascade",
-        "branch": "dev"
+        "branch": "dev",
         "maintainer": "Adriano Rutz <adafede@gmail.com>",
-        "url": "https://github.com/adafede/cascade",
+        "url": "https://github.com/adafede/cascade"
     }
 ]

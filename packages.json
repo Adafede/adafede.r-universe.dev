@@ -1,10 +1,10 @@
 [
     {
         "_comment": "TODO: Should not be needed, investigate later...",
-        "package": "Msnbase",
+        "package": "MSnbase",
         "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
         "registry": "bioc",
-        "url": "https://github.com/bioc/MsnBase",
+        "url": "https://github.com/bioc/MSnbase",
         "version": "2.28.1"
     },
     {

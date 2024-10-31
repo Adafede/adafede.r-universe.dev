@@ -2,6 +2,7 @@
     {
         "package": "cascade",
         "maintainer": "Adriano Rutz <adafede@gmail.com>",
-        "url": "https://github.com/adafede/cascade"
+        "url": "https://github.com/adafede/cascade",
+        "branch": "dev"
     }
 ]

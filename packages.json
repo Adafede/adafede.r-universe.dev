@@ -71,6 +71,20 @@
     },
     {
         "_comment": "TODO: Should not be needed, investigate later...",
+        "package": "Rsamtools",
+        "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
+        "registry": "bioc",
+        "url": "https://github.com/bioc/Rsamtools"
+    },
+    {
+        "_comment": "TODO: Should not be needed, investigate later...",
+        "package": "ShortRead",
+        "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
+        "registry": "bioc",
+        "url": "https://github.com/bioc/ShortRead"
+    },
+    {
+        "_comment": "TODO: Should not be needed, investigate later...",
         "package": "Spectra",
         "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
         "registry": "bioc",

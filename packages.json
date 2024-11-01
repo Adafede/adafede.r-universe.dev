@@ -1,6 +1,13 @@
 [
     {
         "_comment": "TODO: Should not be needed, investigate later...",
+        "package": "nucleR",
+        "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
+        "registry": "bioc",
+        "url": "https://github.com/bioc/nucleR"
+    },
+    {
+        "_comment": "TODO: Should not be needed, investigate later...",
         "package": "MetaboCoreUtils",
         "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
         "registry": "bioc",
@@ -29,10 +36,38 @@
     },
     {
         "_comment": "TODO: Should not be needed, investigate later...",
+        "package": "mzR",
+        "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
+        "registry": "bioc",
+        "url": "https://github.com/bioc/mzR"
+    },
+    {
+        "_comment": "TODO: Should not be needed, investigate later...",
+        "package": "pRoloc",
+        "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
+        "registry": "bioc",
+        "url": "https://github.com/bioc/pRoloc"
+    },
+    {
+        "_comment": "TODO: Should not be needed, investigate later...",
+        "package": "pRolocdata",
+        "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
+        "registry": "bioc",
+        "url": "https://github.com/bioc/pRolocdata"
+    },
+    {
+        "_comment": "TODO: Should not be needed, investigate later...",
         "package": "ProtGenerics",
         "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
         "registry": "bioc",
         "url": "https://github.com/bioc/ProtGenerics"
+    },
+    {
+        "_comment": "TODO: Should not be needed, investigate later...",
+        "package": "Rdisop",
+        "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
+        "registry": "bioc",
+        "url": "https://github.com/bioc/Rdisop"
     },
     {
         "_comment": "TODO: Should not be needed, investigate later...",

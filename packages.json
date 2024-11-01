@@ -1,19 +1,52 @@
 [
     {
         "_comment": "TODO: Should not be needed, investigate later...",
+        "package": "MetaboCoreUtils",
+        "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
+        "registry": "bioc",
+        "url": "https://github.com/bioc/MetaboCoreUtils"
+    },
+    {
+        "_comment": "TODO: Should not be needed, investigate later...",
+        "package": "MsCoreUtils",
+        "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
+        "registry": "bioc",
+        "url": "https://github.com/bioc/MsCoreUtils"
+    },
+    {
+        "_comment": "TODO: Should not be needed, investigate later...",
+        "package": "MsExperiment",
+        "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
+        "registry": "bioc",
+        "url": "https://github.com/bioc/MsExperiment"
+    },
+    {
+        "_comment": "TODO: Should not be needed, investigate later...",
         "package": "MSnbase",
         "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
         "registry": "bioc",
-        "url": "https://github.com/bioc/MSnbase",
-        "version": "2.28.1"
+        "url": "https://github.com/bioc/MSnbase"
+    },
+    {
+        "_comment": "TODO: Should not be needed, investigate later...",
+        "package": "ProtGenerics",
+        "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
+        "registry": "bioc",
+        "url": "https://github.com/bioc/ProtGenerics"
+    },
+    {
+        "_comment": "TODO: Should not be needed, investigate later...",
+        "package": "Spectra",
+        "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
+        "registry": "bioc",
+        "url": "https://github.com/bioc/Spectra"
     },
     {
         "_comment": "TODO: Should not be needed, investigate later...",
         "package": "xcms",
         "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
         "registry": "bioc",
-        "url": "https://github.com/bioc/xcms",
-        "version": "4.0.2"
+        "url": "https://github.com/bioc/xcms"
     },
     {
         "package": "cascade",

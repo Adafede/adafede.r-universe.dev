@@ -1,0 +1,22 @@
+[
+    {
+        "_comment": "TODO: Should not be needed, but macos-oldrel fails otherwise",
+        "package": "MSnbase",
+        "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
+        "registry": "bioc",
+        "url": "https://github.com/bioc/MSnbase"
+    },
+    {
+        "_comment": "TODO: Should not be needed, but macos-oldrel fails otherwise",
+        "package": "mzR",
+        "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
+        "registry": "bioc",
+        "url": "https://github.com/bioc/mzR"
+    },
+    {
+        "package": "cascade",
+        "branch": "main",
+        "maintainer": "Adriano Rutz <adafede@gmail.com>",
+        "url": "https://github.com/adafede/cascade"
+    }
+]

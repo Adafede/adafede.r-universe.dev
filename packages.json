@@ -4,7 +4,7 @@
         "package": "GenomeInfoDbData",
         "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
         "registry": "Bioconductor",
-        "url": "https://github.com/bioc/GenomeInfoDbData"
+        "url": "https://github.com/Bioconductor/GenomeInfoDbData"
     },
     {
         "_comment": "TODO: Should not be needed, but macos-oldrel fails otherwise",

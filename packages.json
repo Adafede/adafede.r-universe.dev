@@ -1,5 +1,12 @@
 [
     {
+        "_comment": "TODO: Should not be needed, but external install fails otherwise",
+        "package": "GenomeInfoDbData",
+        "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
+        "registry": "Bioconductor",
+        "url": "https://github.com/bioc/GenomeInfoDbData"
+    },
+    {
         "_comment": "TODO: Should not be needed, but macos-oldrel fails otherwise",
         "package": "MSnbase",
         "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",

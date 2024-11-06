@@ -21,6 +21,13 @@
         "url": "https://github.com/bioc/mzR"
     },
     {
+        "_comment": "TODO: Should not be needed, but external install fails otherwise",
+        "package": "zlibbioc",
+        "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
+        "registry": "Bioconductor",
+        "url": "https://github.com/Bioconductor/zlibbioc"
+    },
+    {
         "package": "cascade",
         "branch": "main",
         "maintainer": "Adriano Rutz <adafede@gmail.com>",

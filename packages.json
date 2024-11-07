@@ -21,6 +21,10 @@
         "url": "https://github.com/bioc/mzR"
     },
     {
+        "_comment": "TODO: Should not be needed, but mzR fails on Linux otherwise",
+        "package": "ncdf4"
+    },
+    {
         "_comment": "TODO: Should not be needed, but external install fails otherwise",
         "package": "zlibbioc",
         "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",

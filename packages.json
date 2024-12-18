@@ -22,12 +22,6 @@
     },
     {
         "_comment": "TODO: Should not be needed, but external install fails otherwise",
-        "package": "tidytable",
-        "maintainer": "Mark Fairbanks <mark.t.fairbanks@gmail.com>",
-        "url": "https://github.com/markfairbanks/tidytable"
-    },
-    {
-        "_comment": "TODO: Should not be needed, but external install fails otherwise",
         "package": "zlibbioc",
         "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
         "registry": "Bioconductor",

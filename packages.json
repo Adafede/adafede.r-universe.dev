@@ -1,5 +1,12 @@
 [
     {
+        "_comment": "TODO: Should not be needed, but macos-oldrel fails otherwise",
+        "package": "AlpsNMR",
+        "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
+        "registry": "bioc",
+        "url": "https://github.com/bioc/AlpsNMR"
+    },
+    {
         "_comment": "TODO: Should not be needed, but external install fails otherwise",
         "package": "GenomeInfoDbData",
         "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",

@@ -7,11 +7,25 @@
         "url": "https://github.com/bioc/AlpsNMR"
     },
     {
+        "_comment": "TODO: Should not be needed, but macos-oldrel fails otherwise",
+        "package": "BiocParallel",
+        "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
+        "registry": "bioc",
+        "url": "https://github.com/bioc/BiocParallel"
+    },
+    {
         "_comment": "TODO: Should not be needed, but external install fails otherwise",
         "package": "GenomeInfoDbData",
         "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
         "registry": "Bioconductor",
         "url": "https://github.com/Bioconductor/GenomeInfoDbData"
+    },
+    {
+        "_comment": "TODO: Should not be needed, but macos-oldrel fails otherwise",
+        "package": "mixOmics",
+        "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
+        "registry": "bioc",
+        "url": "https://github.com/bioc/mixOmics"
     },
     {
         "_comment": "TODO: Should not be needed, but macos-oldrel fails otherwise",

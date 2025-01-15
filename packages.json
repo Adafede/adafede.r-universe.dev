@@ -1,13 +1,13 @@
 [
     {
-        "_comment": "TODO: Should not be needed, but macos-oldrel fails otherwise",
+        "_comment": "TODO: Should not be needed, but oldrel fails otherwise",
         "package": "AlpsNMR",
         "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
         "registry": "bioc",
         "url": "https://github.com/bioc/AlpsNMR"
     },
     {
-        "_comment": "TODO: Should not be needed, but macos-oldrel fails otherwise",
+        "_comment": "TODO: Should not be needed, but oldrel fails otherwise",
         "package": "BiocParallel",
         "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
         "registry": "bioc",
@@ -21,21 +21,42 @@
         "url": "https://github.com/Bioconductor/GenomeInfoDbData"
     },
     {
-        "_comment": "TODO: Should not be needed, but macos-oldrel fails otherwise",
+        "_comment": "TODO: Should not be needed, but oldrel fails otherwise",
+        "package": "MetaboCoreUtils",
+        "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
+        "registry": "bioc",
+        "url": "https://github.com/bioc/MetaboCoreUtils"
+    },
+    {
+        "_comment": "TODO: Should not be needed, but oldrel fails otherwise",
         "package": "mixOmics",
         "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
         "registry": "bioc",
         "url": "https://github.com/bioc/mixOmics"
     },
     {
-        "_comment": "TODO: Should not be needed, but macos-oldrel fails otherwise",
+        "_comment": "TODO: Should not be needed, but oldrel fails otherwise",
+        "package": "MsBackendMgf",
+        "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
+        "registry": "bioc",
+        "url": "https://github.com/bioc/MsBackendMgf"
+    },
+    {
+        "_comment": "TODO: Should not be needed, but oldrel fails otherwise",
+        "package": "MsBackendMsp",
+        "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
+        "registry": "bioc",
+        "url": "https://github.com/bioc/MsBackendMsp"
+    },
+    {
+        "_comment": "TODO: Should not be needed, but oldrel fails otherwise",
         "package": "MSnbase",
         "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
         "registry": "bioc",
         "url": "https://github.com/bioc/MSnbase"
     },
     {
-        "_comment": "TODO: Should not be needed, but macos-oldrel fails otherwise",
+        "_comment": "TODO: Should not be needed, but oldrel fails otherwise",
         "package": "mzR",
         "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
         "registry": "bioc",
@@ -46,6 +67,13 @@
         "package": "speaq",
         "maintainer": "Charlie Beirnaert <charlie_beirnaert@icloud.com>",
         "url": "https://github.com/Beirnaert/speaq"
+    },
+    {
+        "_comment": "TODO: Should not be needed, but oldrel fails otherwise",
+        "package": "Spectra",
+        "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
+        "registry": "bioc",
+        "url": "https://github.com/bioc/Spectra"
     },
     {
         "_comment": "TODO: Should not be needed, but external install fails otherwise",

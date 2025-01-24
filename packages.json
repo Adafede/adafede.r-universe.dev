@@ -95,6 +95,12 @@
         "url": "https://github.com/adafede/cascade"
     },
     {
+        "package": "CentroidR",
+        "branch": "main",
+        "maintainer": "Adriano Rutz <adafede@gmail.com>",
+        "url": "https://github.com/adafede/CentroidR"
+    },
+    {
         "package": "sapid",
         "branch": "main",
         "maintainer": "Adriano Rutz <adafede@gmail.com>",

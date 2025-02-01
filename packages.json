@@ -1,5 +1,12 @@
 [
     {
+        "_comment": "TODO: Should not be needed, but external install fails otherwise",
+        "package": "GenomeInfoDbData",
+        "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
+        "registry": "Bioconductor",
+        "url": "https://github.com/Bioconductor/GenomeInfoDbData"
+    },
+    {
         "package": "cascade",
         "branch": "main",
         "maintainer": "Adriano Rutz <adafede@gmail.com>",

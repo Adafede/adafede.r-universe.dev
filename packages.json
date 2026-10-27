@@ -12,6 +12,12 @@
         "url": "https://github.com/adafede/CentroidR"
     },
     {
+        "package": "EthnoBotaPhyWR",
+        "branch": "main",
+        "maintainer": "Adriano Rutz <adafede@gmail.com>",
+        "url": "https://github.com/adafede/EthnoBotaPhyWR"
+    },
+    {
         "package": "sapid",
         "branch": "main",
         "maintainer": "Adriano Rutz <adafede@gmail.com>",
